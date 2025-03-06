@@ -1,10 +1,24 @@
 [
   {
-    "name": "ptah.sh",
-    "url": "https://ptah.sh/blog/2024-08-09-we-use-fair-source/",
-    "background": "#F1F1F3",
-    "logo": "/images/companies/ptah.sh.svg",
-    "adoption": "August 9, 2024"
+    "name": "Pythagora",
+    "url": "https://blog.pythagora.ai/2025/01/30/pythagora-supports-fair-source/",
+    "background": "#030010",
+    "logo": "/images/companies/pythagora.png",
+    "adoption": "January 30, 2025"
+  },
+  {
+    "name": "Qlty Software",
+    "url": "https://qlty.sh/blog/qlty-cli-is-fair-source",
+    "background": "#293A4D",
+    "logo": "/images/companies/qlty.png",
+    "adoption": "January 2, 2025"
+  },
+  {
+    "name": "Typebot",
+    "url": "https://typebot.io/blog/typebot-is-now-fair-source",
+    "background": "#171717",
+    "logo": "/images/companies/typebot.png",
+    "adoption": "September 30, 2024"
   },
   {
     "name": "Sentry",
